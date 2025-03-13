@@ -36,4 +36,4 @@ folium
 
 
 ##Visualizations
-![image](https://github.com/TheFatCat2305/Historical-Automobile-Sales-Visualization/blob/main/Line_Plot_1.png)
+![Plot](https://github.com/TheFatCat2305/Historical-Automobile-Sales-Visualization/blob/main/Line_Plot_1.png)
