@@ -24,6 +24,7 @@ df.columns
 
 
 #Creating Visualizations for Data Analysis
+
 #TASK 1.1: Develop a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year¶
 # Group data by year and sum sales
 df1 = df.groupby('Year')['Automobile_Sales'].mean().reset_index()
