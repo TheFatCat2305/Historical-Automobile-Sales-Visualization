@@ -33,3 +33,7 @@ numpy
 matplotlib
 seaborn
 folium
+
+
+##Visualizations
+![image](file:///Users/dainguyen/Desktop/Line_Plot_1.png)
