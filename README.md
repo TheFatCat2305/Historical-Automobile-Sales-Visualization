@@ -35,7 +35,6 @@ seaborn
 folium
 
 
-##Visualizations
-![Line Plot](https://github.com/TheFatCat2305/Historical-Automobile-Sales-Visualization/blob/main/Line_Plot_1.png?raw=true)
+
 
 
