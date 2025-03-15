@@ -37,7 +37,8 @@ folium
 ##Visualizations
 
 
-![image](<img width="1020" alt="Line_Plot_1" src="https://github.com/user-attachments/assets/4edf8412-012a-4bc1-a8fe-b0c9568dc9b0" />)
+![image](https://github.com/user-attachments/assets/48b3ccfc-deb0-4387-b83f-8ae8f3a5026a)
+
 
 
 
