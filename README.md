@@ -19,15 +19,13 @@ The dataset (`historical_automobile_sales.csv`) contains:
 - Economic variables (GDP, Unemployment Rate, etc.)
 - Vehicle types and other relevant metrics
 
-Lineplot 1:
-![image](https://github.com/user-attachments/assets/d63c5ada-2b11-4757-b8f2-c9fa1bbffb4a)
 
 ## Prerequisites
 
 - Python 3.8+
 - Jupyter Notebook environment
 
-### Required Libraries
+## Required Libraries
 ```bash
 pandas
 numpy
@@ -37,8 +35,6 @@ folium
 
 ##Visualizations
 
-Lineplot 1:
-![image](https://github.com/user-attachments/assets/d63c5ada-2b11-4757-b8f2-c9fa1bbffb4a)
 
 
 
