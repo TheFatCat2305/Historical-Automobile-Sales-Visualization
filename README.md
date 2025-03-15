@@ -26,7 +26,6 @@ The dataset (`historical_automobile_sales.csv`) contains:
 - Jupyter Notebook environment
 
 ## Required Libraries
-```bash
 pandas
 numpy
 matplotlib
