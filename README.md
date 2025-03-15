@@ -32,7 +32,11 @@ matplotlib
 seaborn
 folium
 
-##Visualizations
+## Visualizations
+
+Yearly Automobile Sales Fluctuations
+![image](https://github.com/user-attachments/assets/846190c1-318d-43b6-95d1-2d14321801aa)
+
 
 
 
