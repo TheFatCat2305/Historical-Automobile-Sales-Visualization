@@ -34,6 +34,12 @@ matplotlib
 seaborn
 folium
 
+##Visualizations
+
+
+<img width="1020" alt="Line_Plot_1" src="https://github.com/user-attachments/assets/4edf8412-012a-4bc1-a8fe-b0c9568dc9b0" />
+
+
 
 
 
