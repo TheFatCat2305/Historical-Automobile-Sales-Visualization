@@ -59,7 +59,7 @@ Total Advertisement expenditure for each vehicle type during recession period
 ![image](https://github.com/user-attachments/assets/03fd8159-e91d-43b3-b230-5b588ee45cbe)
 
 Effect of Unemployment Rate on Vehicle Type and Sales
-![image](https://github.com/user-attachments/assets/dcd2d833-d277-4f0d-9325-80cdf3090b4f")
+![image](https://github.com/user-attachments/assets/dcd2d833-d277-4f0d-9325-80cdf3090b4f)
 
 
 
