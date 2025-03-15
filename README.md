@@ -36,8 +36,12 @@ folium
 
 ##Visualizations
 
+Lineplot 1:
+![image](https://github.com/user-attachments/assets/48b3ccfc-deb0-4387-b83f-8ae8f3a5026a)
 
-[image](https://github.com/user-attachments/assets/48b3ccfc-deb0-4387-b83f-8ae8f3a5026a)
+
+![image](https://github.com/user-attachments/assets/d9578599-5a7e-48c2-a72e-9cc725ba91ab)
+
 
 
 
