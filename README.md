@@ -37,7 +37,7 @@ folium
 ##Visualizations
 
 
-![image](https://github.com/user-attachments/assets/48b3ccfc-deb0-4387-b83f-8ae8f3a5026a)
+[image](https://github.com/user-attachments/assets/48b3ccfc-deb0-4387-b83f-8ae8f3a5026a)
 
 
 
